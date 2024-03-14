@@ -1,24 +1,4 @@
-# albert-camus
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<div align="center">
+  <h2>آلبر کامو🤍</h2>
+  <img src="Screenshot_20240314_230535_Chrome.jpg"/>
+</div>
