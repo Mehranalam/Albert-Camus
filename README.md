@@ -2,6 +2,6 @@
   <h2>Albert Camus</h2>
   <img src="cover.png"/>
   <p><i>
-        برای یادبود نویسنده‌ای که فقر را تجربه کرده بود خوده او گفته است که آفتاب و فقر محله بلکور چه مفهومی برایش داشته است فقر مانع این شد که فکر کنم زیر آفتاب و در تاریخ همه چیز خوب است
+        In memory of a writer who experienced poverty, he himself said what the sun and poverty of Belkor neighborhood meant to him. Poverty prevented me from thinking that everything is good under the sun and in history.
   </i></p>
 </div>
