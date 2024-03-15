@@ -1,9 +1,19 @@
   <template>
     <div class="holder">
-      <h3>{{ title }}</h3>
-      <p>{{ description }}</p>
-      <button>خواندن این اثر</button>
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h5 class="card-title">{{ title }}</h5>
+          <h6 class="card-subtitle mb-2 text-body-secondary">محتوای خواندنی - متنی</h6>
+          <p class="card-text">{{ description }}</p>
+          <router-link to="/about">خواندن</router-link>
+          <hr>
+          <a href="#" class="card-link">بررسی محتوایی در مخزن</a>
+        </div>
+      </div>
     </div>
+    <main>
+    <RouterView />
+  </main>
   </template>
   
   <script>
@@ -21,11 +31,7 @@
       display: flex;
       flex-direction: column;
       direction: rtl;
-      justify-content: space-between;
-      border: 1px solid #2c3e50;
-      padding: 25px;
-      margin: 1%;
-      border-radius: 20px;
+      padding: 20px;
     }
 
     .holder p {
