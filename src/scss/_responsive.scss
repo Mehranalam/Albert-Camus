@@ -4,12 +4,22 @@
         flex-direction: column;
         justify-content: space-around;
     }
+
+    .holder-inside {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 975px) {
     .displaey {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
+    }
+
+    .holder-inside {
+        display: flex;
+        flex-direction: column;
     }
 }
