@@ -11,7 +11,7 @@
     }
 }
 
-@media only screen and (max-width: 975px) {
+@media only screen and (max-width: 875px) {
     .displaey {
         display: flex;
         flex-direction: column;
@@ -21,5 +21,9 @@
     .holder-inside {
         display: flex;
         flex-direction: column;
+    }
+
+    .jj-koln {
+        align-self: center;
     }
 }

@@ -1,6 +1,6 @@
 <template>
   <div class="holder" dir="rtl">
-    <div align="right" class="card" style="width: 18rem;">
+    <div align="right" class="card">
       <div class="card-body">
         <h5 class="card-title">{{ title }}</h5>
         <h6 class="card-subtitle mb-2 text-body-secondary">محتوای خواندنی - متنی</h6>
@@ -30,7 +30,7 @@ export default {
   display: flex;
   flex-direction: column;
   direction: rtl;
-  padding: 20px;
+  margin-bottom: 20px;
 }
 
 .holder p {
