@@ -20,7 +20,7 @@
           </figure>
           <br>
           <br>
-          <h5> صفحه درباره این پروژه - یادبود آلبر کامو - <a href="/about">/about</a></h5>
+          <h5 style="border-right: 3px solid blue; padding-right: 15px; border-radius: 6px;"> صفحه درباره این پروژه - یادبود آلبر کامو - <a style="text-decoration: underline;" href="/about">/about</a></h5>
           <br>
           <figure>
             <blockquote class="blockquote">
