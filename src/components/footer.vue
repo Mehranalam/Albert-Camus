@@ -1,5 +1,5 @@
 <template>
-<p>برای یادبود فرزند آفتاب - آلبر کامو این <a href="https://github.com/Mehranalam/Albert-Camus">پروژه</a> کاملا متن باز است و تحت لیسانس GPL منتشر و نگهداری میشپد</p>
+<p>برای یادبود فرزند آفتاب - آلبر کامو این <a href="https://github.com/Mehranalam/Albert-Camus">پروژه</a> کاملا متن باز است و تحت لیسانس GPL منتشر و نگهداری میشود</p>
 </template>
 
 <script>
